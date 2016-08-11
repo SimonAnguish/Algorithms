@@ -1,5 +1,4 @@
 import java.util.Random;
-import javax.xml.transform.*;
 
 class MergeSort {
 	final static int ARRAY_LIST = 100;
