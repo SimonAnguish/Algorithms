@@ -1,8 +1,8 @@
 import java.util.Random;
 
 class MergeSort {
-	final static int ARRAY_LIST = 100;
-	final static int MAX_RAND = 100;
+	final static int ARRAY_LIST = 9000;
+	final static int MAX_RAND = 100000000;
 		
 	public static void main(String[] args) {
 		Random rand = new Random();
